@@ -13,6 +13,7 @@
 	 - Moderation Commands
 	 - User Verification - Saves user data locally
 	 - Time zone converter
+
  - **Data Scraping**: Scraping Data from the web for statistics / info.
 	 - Fact of the Day
 	 - Covid-19 Statistics
