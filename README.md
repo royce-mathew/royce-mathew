@@ -11,9 +11,11 @@
 ### Python
  - **Spyder**: Discord bot written in python, has a number of features useful for daily use and server moderation.
 	 - Moderation Commands
-	 - Fact of the Day
 	 - User Verification - Saves user data locally
 	 - Time zone converter
+ - **Data Scraping**: Scraping Data from the web for statistics / info.
+	 - Fact of the Day
+	 - Covid-19 Statistics
 
 ### Java
 - **New-world**: Complete RPG terminal-based game written in Java.
