@@ -5,7 +5,7 @@
 	<p align="center">
 	    <a href="https://coderstats.net/github/#royce-mathew">
 	      <img src="https://github-readme-stats.vercel.app/api?username=royce-mathew&show_icons=true&count_private=true&theme=react&hide_border=true"/>
-	      <img src="https://github-readme-streak-stats.herokuapp.com?user=royce-mathew&theme=github-dark-blue&hide_border=true" />
+	      <img src="https://github-readme-streak-stats.herokuapp.com?user=royce-mathew&theme=github-dark-blue&hide_border=true&fire=DDDDDD" />
 	    </a>
   	</p>
 	<h1 id="projects">Projects</h1>
