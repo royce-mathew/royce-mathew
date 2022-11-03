@@ -17,6 +17,9 @@
 		<li>
 			<strong>Seven Seas</strong>: Test game created to understand and learn more about the client - server model on Roblox.
 		</li>
+		<li>
+			<strong>Browser</strong>: Created a functional browser which searches through internal database to display frames as websites.
+		</li>
 	</ul>
 	<h3 id="python">Python</h3>
 	<ul>
