@@ -64,6 +64,7 @@
 	    <a href="https://github.com/search?q=user%royce-mathew+language%3Alua"><img alt="Lua" src="https://img.shields.io/badge/Lua-darkblue.svg?logo=lua"></a>
 	    <a href="https://github.com/search?q=user%royce-mathew+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 	    <a href="https://github.com/search?q=user%royce-mathew+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+		<a href="https://github.com/search?q=user%royce-mathew+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-brown.svg?logo=rust&logoColor=white"></a>
 	    <a href="https://github.com/search?q=user%royce-mathew+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
 	</p>
 	<h3 id="framworks">Frameworks</h3>
