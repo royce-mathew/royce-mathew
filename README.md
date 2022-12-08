@@ -25,7 +25,7 @@
 	<ul>
 		<li>
 			<p>
-				<strong>Spyder</strong>: Discord bot written in python, has a number of features useful for daily use and server moderation.
+				<strong>Spyder</strong>: Discord Bot written in python - Discord.py
 			</p>
 			<ul>
 				<li>Moderation Commands</li>
@@ -50,6 +50,16 @@
 				<li>Modular Code</li>
 				<li>Plays sounds based on which part of the story you are at</li>
 				<li>Code is written in a way which makes it easier to add / remove parts of the story</li>
+			</ul>
+		</li>
+	</ul>
+	<h3 id="java">JavaScript</h3>
+	<ul>
+		<li>
+			<strong>Discord Bot</strong>: Functional Discord Bot - Discord.js <ul>
+				<li>Modular Code</li>
+				<li>Captcha Creator</li>
+				<li>Efficient Use of Web Requests. Pulls data from various websites like Reddit</li>
 			</ul>
 		</li>
 	</ul>
