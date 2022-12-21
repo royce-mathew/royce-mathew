@@ -29,6 +29,7 @@
 			</p>
 			<ul>
 				<li>Moderation Commands</li>
+				<li>Music Commands</li>
 				<li>User Verification - Saves user data locally</li>
 				<li>Time zone converter</li>
 			</ul>
