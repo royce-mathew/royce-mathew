@@ -25,22 +25,24 @@
 	<ul>
 		<li>
 			<p>
-				<strong>Spyder</strong>: Discord Bot written in python - Discord.py
+				<strong>ForexPredictor</strong>: Research Paper on the Possibility of using Neural Networks to Predict the Forex Market
 			</p>
 			<ul>
-				<li>Moderation Commands</li>
-				<li>Music Commands</li>
-				<li>User Verification - Saves user data locally</li>
-				<li>Time zone converter</li>
+				<li>NEAT: Neurally Augmented Topological Networks</li>
+				<li>Jupyter Notebook</li>
 			</ul>
 		</li>
 		<li>
 			<p>
-				<strong>Data Scraping</strong>: Scraping Data from the web for statistics / info.
+				<strong>Spyder</strong>: Discord Bot written in python - Discord.py
 			</p>
 			<ul>
-				<li>Fact of the Day</li>
-				<li>Covid-19 Statistics</li>
+				<li>Moderation Commands</li>
+				<li>Datastore using LevelDB</li>
+				<li>Music Commands</li>
+				<li>User Verification</li>
+				<li>Data Scraper</li>
+				<li>Time Zone converter</li>
 			</ul>
 		</li>
 	</ul>
@@ -48,9 +50,8 @@
 	<ul>
 		<li>
 			<strong>New-world</strong>: Complete RPG terminal-based game written in Java. <ul>
-				<li>Modular Code</li>
-				<li>Plays sounds based on which part of the story you are at</li>
-				<li>Code is written in a way which makes it easier to add / remove parts of the story</li>
+				<li>Abstract Code</li>
+				<li>Supports Embedding Sounds / Other Datatypes in Story</li>
 			</ul>
 		</li>
 	</ul>
@@ -60,7 +61,7 @@
 			<strong>Discord Bot</strong>: Functional Discord Bot - Discord.js <ul>
 				<li>Modular Code</li>
 				<li>Captcha Creator</li>
-				<li>Efficient Use of Web Requests. Pulls data from various websites like Reddit</li>
+				<li>Efficient Use of Web Requests; Pulls data from various websites like Reddit</li>
 			</ul>
 		</li>
 	</ul>
