@@ -4,7 +4,7 @@
 	</br>
 	<p align="center">
 	    <a href="https://coderstats.net/github/#royce-mathew">
-	      <img src="https://github-readme-stats.vercel.app/api?username=royce-mathew&show_icons=true&count_private=true&theme=react&hide_border=true"/>
+	      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=royce-mathew&show_icons=true&count_private=true&theme=react&hide_border=true"/>
 	      <img src="https://github-readme-streak-stats.herokuapp.com?user=royce-mathew&theme=github-dark-blue&hide_border=true&fire=DDDDDD" />
 	    </a>
   	</p>
@@ -66,7 +66,7 @@
 		</li>
 	</ul>
 	<h1 id="experience">Experience</h1>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royce-mathew&theme=react&hide_border=true&layout=compact"/>
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=royce-mathew&theme=react&hide_border=true&layout=compact"/>
 	<h3 id="programming_languages">Programming Languages</h3>
 	<p>
 		<a href="https://github.com/search?q=user%royce-mathew+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-black.svg?logo=asm-hex&logoColor=white"/>
