@@ -3,11 +3,12 @@
 	<p align = "center">🧑‍🎓 2nd Year Student | 💻 Software Engineer | 🎮 Game Developer</p>
 	</br>
 	<p align="center">
-	    <a href="https://coderstats.net/github/#royce-mathew">
-	      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=royce-mathew&show_icons=true&count_private=true&theme=react&hide_border=true" width="49%"/>
-	      <img src="https://github-readme-streak-stats.herokuapp.com?user=royce-mathew&theme=github-dark-blue&hide_border=true&fire=DDDDDD" width="49%"/>
-	    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=royce-mathew&custom_title=Royce%20Mathew's%20GitHub%20Activity%20Graph&theme=react&hide_border=true&area=true" alt="Royce Mathew's Github Activity Graph" width="100%">
-	    </a>
+		<a href="https://coderstats.net/github/#royce-mathew">
+		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=royce-mathew&show_icons=true&count_private=true&theme=dark&hide_border=true&icon_color=fa8b00" width="49%"/>
+		<img src="https://github-readme-streak-stats.herokuapp.com?user=royce-mathew&theme=dark&hide_border=true&fire=DDDDDD" width="49%"/>
+		<img src="https://github-readme-activity-graph.cyclic.app/graph?username=royce-mathew&custom_title=Royce%20Mathew's%20GitHub%20Activity%20Graph&theme=react&hide_border=true&area=true" alt="Royce Mathew's Github Activity Graph" width="100%">
+		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=roycemathew&theme=dark" alt="Royce Mathew's Github Activity Graph" width="100%">
+	</a>
   	</p>
 	<h1 id="projects">Projects</h1>
 	<h3 id="lua">Lua</h3>
