@@ -1,6 +1,10 @@
 <p align="center">
 	<h3 id="royce-mathew" align="center">Royce Mathew</h3>
 	<p align = "center">🧑‍🎓 2nd Year Student | 💻 Software Engineer | 🎮 Game Developer</p>
+	<h4 align="center">Profile Views</h3>
+	<p align = "center">
+	<img src="https://profile-counter.glitch.me/royce-mathew/count.svg"/>
+	</p>
 	</br>
 	<p align="center">
 		<a href="https://coderstats.net/github/#royce-mathew">
