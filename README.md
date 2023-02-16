@@ -1,11 +1,7 @@
 <p align="center">
 	<h3 id="royce-mathew" align="center">Royce Mathew</h3>
 	<p align = "center">🧑‍🎓 2nd Year Student | 💻 Software Engineer | 🎮 Game Developer</p>
-	<h4 align="center">Profile Views</h3>
-	<p align = "center">
-	<img src="https://profile-counter.glitch.me/royce-mathew/count.svg"/>
-	</p>
-	</br>
+	<img src="https://profile-counter.glitch.me/royce-mathew/count.svg", width="0%", height="0%"/>
 	<p align="center">
 		<a href="https://coderstats.net/github/#royce-mathew">
 		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=royce-mathew&show_icons=true&count_private=true&theme=dark&hide_border=true&icon_color=fa8b00&bg_color=0d1117" width="47.5%"/>
