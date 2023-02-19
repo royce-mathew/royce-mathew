@@ -110,6 +110,7 @@
 	    <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"/>
 	    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-150458?logo=flask&logoColor=white"/>
 	    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"/>
+	    <a href="#"><img alt="LevelDB" src="https://img.shields.io/badge/LevelDB-fcba03?logo=leveldb&logoColor=white"/>
 	    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"/>
 	    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"/>
 	    <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"/>
