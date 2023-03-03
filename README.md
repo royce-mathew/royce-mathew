@@ -1,42 +1,41 @@
 <p align="center">
 	<h3 id="royce-mathew" align="center">Royce Mathew</h3>
 	<p align = "center">🧑‍🎓 2nd Year Student | 💻 Software Engineer | 🎮 Game Developer</p>
-	<img src="https://profile-counter.glitch.me/royce-mathew/count.svg" width="0%" height="0%"/>
-	<p align="center">
-		<a href="https://coderstats.net/github/#royce-mathew">
-		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=royce-mathew&show_icons=true&count_private=true&theme=dark&hide_border=true&icon_color=fa8b00&bg_color=0d1117" width="47.5%"/>
-		<img src="https://github-readme-streak-stats.herokuapp.com?user=royce-mathew&theme=dark&hide_border=true&fire=DDDDDD&background=0d1117" width="50.5%"/>
-		<img src="https://github-readme-activity-graph.cyclic.app/graph?username=royce-mathew&custom_title=Royce%20Mathew's%20GitHub%20Activity%20Graph&theme=react&hide_border=true&area=true&bg_color=0d1117" alt="Royce Mathew's Github Activity Graph" width="100%">
-		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=roycemathew&theme=dark&hide_border=true&bg_color=0d1117&layout=compact" alt="Royce Mathew's Github Activity Graph" width="100%">
-	</a>
-  	</p>
 	<h1 id="projects">Projects</h1>
 	<h3 id="lua">Lua</h3>
 	<ul>
 		<li>
-			<strong>Toshiko - Tokyo Undying</strong>: Horror game created with the ROBLOX Engine.
+			<strong>Seven Seas</strong>: Test game created to understand and learn more about the client - server model on Roblox. 
 		</li>
 		<li>
-			<strong>Seven Seas</strong>: Test game created to understand and learn more about the client - server model on Roblox.
+			<strong>3D Wave Simulation</strong>: Uses Gernster’s Wave Formula to Generate 3 Dimensional Waves on a meshgrid. 
 		</li>
 		<li>
-			<strong>Browser</strong>: Created a functional browser which searches through internal database to display frames as websites.
+			<strong>Browser</strong>: Created a functional browser which searches through internal database to display frames as websites. Navigates to pages that are locally stored.
+		</li>
+		<li>
+			<p>
+				<strong>Toshiko - Tokyo Undying</strong>: Horror game written in Lua-U with the Roblox Engine.
+			</p>
+			<ul>
+				<li>Worked with a Server - Client Model to safely handle events and user input<\li>
+				<li>Developed a Full Inventory System with GUI from scratch</li>
+				<li>Created a party system, communicates across servers to send requests to other players</li>
+				<li> Dynamic NoSQL Database to store user progress data</li>
+				<li>Multithreaded Events with Code Optimization</li>
+			</ul>
 		</li>
 	</ul>
 	<h3 id="python">Python</h3>
 	<ul>
 		<li>
 			<p>
-				<strong>ForexPredictor</strong>: Research Paper on the Possibility of using Neural Networks to Predict the Forex Market
+				<strong>ForexPredictor</strong>: Research Paper on using Neural Networks to predict the foreign exchange market. Explores the possibility of using genetic algorithms like NEAT (NeuroEvolution of Augmenting Topologies) to make predictions on the market.
 			</p>
-			<ul>
-				<li>NEAT: Neurally Augmented Topological Networks</li>
-				<li>Jupyter Notebook</li>
-			</ul>
 		</li>
 		<li>
 			<p>
-				<strong>Spyder</strong>: Discord Bot written in python - Discord.py
+				<strong>Spyder</strong>: Bot for the Popular chat & VOIP service: Discord.
 			</p>
 			<ul>
 				<li>Moderation Commands</li>
@@ -50,7 +49,17 @@
 		</li>
 		<li>
 			<p>
-				<strong>EasyConnect</strong>: Application which lets you automate tasks on your computer through your phone
+				<strong>Adam - Dynamic Voice Assistant</strong>: Uses Natural Language Processing to convert voice to text and automate daily tasks.
+			</p>
+			<ul>
+				<li>Automatically Set Alarms</li>
+				<li>Get Weather Info</li>
+				<li>Automated Command Loader with decorators to make programming new commands easy.</li>
+			</ul>
+		</li>
+		<li>
+			<p>
+				<strong>EasyConnect</strong>: Application which allows users to easily connect to their desktop through their mobile phone and automate daily tasks easily. Desktop Automation for Daily Tasks, makes the desktop experience efficient and helps users who are new to technology learn.
 			</p>
 			<ul>
 				<li>REST APIs</li>
@@ -87,6 +96,15 @@
 			</ul>
 		</li>
 	</ul>
+	<h1 id="stats">Statistics</h1>
+	<p align="center">
+		<a href="https://coderstats.net/github/#royce-mathew">
+		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=royce-mathew&show_icons=true&count_private=true&theme=dark&hide_border=true&icon_color=fa8b00&bg_color=0d1117" width="47.5%"/>
+		<img src="https://github-readme-streak-stats.herokuapp.com?user=royce-mathew&theme=dark&hide_border=true&fire=DDDDDD&background=0d1117" width="50.5%"/>
+		<img src="https://github-readme-activity-graph.cyclic.app/graph?username=royce-mathew&custom_title=Royce%20Mathew's%20GitHub%20Activity%20Graph&theme=react&hide_border=true&area=true&bg_color=0d1117" alt="Royce Mathew's Github Activity Graph" width="100%">
+		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=roycemathew&theme=dark&hide_border=true&bg_color=0d1117&layout=compact" alt="Royce Mathew's Github Activity Graph" width="100%">
+	</a>
+  	</p>
 	<h1 id="experience">Experience</h1>
 	<h3 id="programming_languages">Programming Languages</h3>
 	<p>
