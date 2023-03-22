@@ -5,7 +5,7 @@
 	<h3 id="lua">Lua</h3>
 	<ul>
 		<li>
-			<strong>Seven Seas</strong>: Test game created to understand and learn more about the client - server model on Roblox. 
+			<strong>Seven Seas</strong>: Game which utilizes the client - server model on Roblox to safely fire events based on user input and communicate with the server. Prevents client sided exploits affecting other clients through safe event handling.
 		</li>
 		<li>
 			<strong>3D Wave Simulation</strong>: Uses Gernster’s Wave Formula to Generate 3 Dimensional Waves on a meshgrid. 
@@ -18,12 +18,18 @@
 				<strong>Toshiko - Tokyo Undying</strong>: Horror game written in Lua-U with the Roblox Engine.
 			</p>
 			<ul>
-				<li>Worked with a Server - Client Model to safely handle events and user input<\li>
+				<li>Worked with a Server - Client Model to safely handle events and user input</li>
 				<li>Developed a Full Inventory System with GUI from scratch</li>
 				<li>Created a party system, communicates across servers to send requests to other players</li>
-				<li> Dynamic NoSQL Database to store user progress data</li>
+				<li>Dynamic NoSQL Database to store user progress data</li>
 				<li>Multithreaded Events with Code Optimization</li>
 			</ul>
+		</li>
+	</ul>
+	<h3 id="rust">Rust</h3>
+	<ul>
+		<li>
+			<strong>robloxapi</strong>: Asynchronous Rust API Wrapper for Roblox endpoints - a cargo crate that safely sends requests to endpoints and allows for cookie-based authorization. The wrapper seamlessly integrates users, groups, games and payment services into Rust-compatible formats for easy access and manipulation. 
 		</li>
 	</ul>
 	<h3 id="python">Python</h3>
