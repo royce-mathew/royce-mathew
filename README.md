@@ -1,6 +1,6 @@
 <p align="center">
 	<h1 id="royce-mathew" align="center">Royce Mathew - <a href="https://royce-mathew.com">Portfolio</a></h1>
-	<p align = "center">🧑‍🎓 3rd Year Student | 💻 Software Engineer | 🎮 Game Developer</p>
+	<p align = "center">🧑‍🎓 3rd Year Student | 💻 Software Developer | 🎮 Game Developer</p>
 	<p align="center">
 		<a href="https://coderstats.github.io/github/#royce-mathew">
 		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=royce-mathew&show_icons=true&count_private=true&theme=dark&hide_border=true&icon_color=fa8b00&bg_color=0d1117" width="47.5%"/>
