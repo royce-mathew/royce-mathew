@@ -12,6 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: royce-mathew/metrics@latest
+      - uses: royce-mathew/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
