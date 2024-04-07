@@ -1,5 +1,5 @@
 <div align="center">
-	<h1 id="royce-mathew" align="center">Royce Mathew - <a href="https://royce-mathew.com">Portfolio</a></h1>
+	<h1 id="royce-mathew" align="center">Royce Mathew - <a href="https://r0yce.com">Portfolio</a></h1>
 	<p align = "center">🧑‍🎓 3rd Year Student | 💻 Software Developer | 🎮 Game Developer</p>
 	<div align="center">
 		<a href="https://coderstats.github.io/github/#royce-mathew">
